@@ -28,4 +28,3 @@
 
 
 ---
-Code for the front-end can be found [here](https://github.com/cmxiv/notes-fe)
